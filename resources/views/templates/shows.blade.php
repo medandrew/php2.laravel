@@ -8,7 +8,7 @@
         <div class="main left">
             <h2>{{ isset($pagetitle) ? $pagetitle : null }}</h2>
             <div class="repertoire">
-                <img src="/images/repertoire/1.png" alt=""/>
+                <img src="/images/shows/0.png" alt=""/>
                 <h3>
                     <a href="#">История Новосибирского театра оперы и балета</a>
                 </h3>
